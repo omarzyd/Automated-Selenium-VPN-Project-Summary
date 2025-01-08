@@ -38,6 +38,10 @@ This project involved creating a Selenium-based web scraping bot that uses proxy
 
 During the development and deployment of the bot, I encountered issues with the bot's performance on different networks. Through careful troubleshooting and problem-solving, I identified that router restrictions were causing these issues. By addressing these network-related problems, I ensured the bot's smooth operation across various networks.
 
+
+![Screenshot 2024-07-20 042005](https://github.com/user-attachments/assets/729f22cf-e5b0-4299-a441-f6c33cf66431)
+
+
 The project also focused on ensuring the bot's operations were within legal and ethical boundaries. This included respecting the target websites' terms of service and avoiding actions that could lead to IP banning or legal issues. The bot's design incorporated robust error handling mechanisms to manage proxy failures and retries efficiently.
 
 The successful implementation of this bot demonstrated my proficiency in Python, Selenium, HTTP data extraction, network troubleshooting, and managing web scraping projects that require anonymity and compliance with legal standards.
